@@ -8,6 +8,6 @@ The setting file (stereo.default.MikeWillisInt) must be installed in the home di
 # Working example
 The attached folder n27_e086.zip needs to be in the same repository as the bash script. Make the bash script executable and run the command:
 
->./batch_processing_ASP_github.bash
+    ./batch_processing_ASP_github.bash
 
 If using this script, please cite (REFERENCE TO DUSSAILLANT ET AL TO BE ADDED)
