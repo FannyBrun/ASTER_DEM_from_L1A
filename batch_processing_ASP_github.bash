@@ -1,14 +1,11 @@
 source $HOME/.bash_profile
 
-tile=n35_e076
-
-unzip $tile.zip
+tile=n27_e086
 
 cd $tile
 
-srtm_utm=REF_DEM_MASK/DEM_REF.tif
 srtm=REF_DEM_MASK/DEM_REF_for_ASP.tif
-utm=`gdalinfo $srtm_utm | grep UTM | awk '{print $6}' | cut -c 1-2`
+utm=`gdalinfo $srtm | grep UTM | awk '{print $6}' | cut -c 1-2`
 
 settings=$HOME/stereo.default.MikeWillisInt
 DEM_PS=30.
