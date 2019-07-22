@@ -1,6 +1,6 @@
 source $HOME/.bash_profile
 
-tile=n27_e086
+tile=n35_e076
 
 unzip $tile.zip
 
