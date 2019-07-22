@@ -2,7 +2,7 @@
 Shell code used to run Ames Stereo Pipelines (ASP) on a batch of ASTER L1A images
 
 # Installation
-Requirement = Ames Stereo Pipeline (https://ti.arc.nasa.gov/tech/asr/groups/intelligent-robotics/ngt/stereo/). Please follow carefully the ASP installation procedure described in the ASP user guide before trying to run the processing. 
+Requirement = Ames Stereo Pipeline (https://ti.arc.nasa.gov/tech/asr/groups/intelligent-robotics/ngt/stereo/). Please follow carefully the ASP installation procedure described in the ASP user guide before trying to run the bash script. 
 The setting file (stereo.default.MikeWillisInt) must be installed in the home directory.
 
 # Working example
