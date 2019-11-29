@@ -19,4 +19,5 @@ Make the bash script executable and run the command:
 
     ./batch_processing_ASP_github.bash
 
-If using this script, please cite (REFERENCE TO DUSSAILLANT ET AL TO BE ADDED)
+If using this script, please cite: 
+Dussaillant, I., E. Berthier, F. Brun, M. Masiokas, R. Hugonnet, V. Favier, A. Rabatel, P. Pitte, and L. Ruiz. “Two Decades of Glacier Mass Loss along the Andes.” Nature Geoscience 12, no. 10 (October 1, 2019): 802–8. https://doi.org/10.1038/s41561-019-0432-5.
