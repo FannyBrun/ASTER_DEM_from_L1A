@@ -12,7 +12,7 @@ Unzip `n27_e086.zip`
 ## Download ASTL1A images
 The images can be ordered from https://earthdata.nasa.gov/, search for the collection "ASTER L1A Reconstructed Unprocessed Instrument Data V003".
 This example works with ASTER images images intersecting the SRTM tile N27E086 (i.e. in a rectangle between 27 and 28 degrees of latitude and 86 and 87 degrees of longitude). 
-Download the ASTER scenes of interest and save the individual scenes (`AST_L1A_* .tif`) in the repository `n27_e086/raw_L1A/`.
+Download the ASTER scenes of interest and save the individual scenes (`AST_L1A_* .zip`) in the repository `n27_e086/raw_L1A/`.
 
 ## Process ASTER images
 Make the bash script executable and run the command:
